@@ -48,7 +48,7 @@ What do you do if it's buried in thousands of command lines you've entered? Sear
 I bet you are not capable of rememrbing command options. And that could be [distraous](https://xkcd.com/1168/). We complete command line options as well.
 
 There is an example that the shell tries to complete the commit that I would like to fixup.
-``` shell
+``` sh
 ~/dev/haskell-ide-engine$ git commit --fixup=
 Completing recent commit object name
 ee5b98c6  -- [HEAD]    Merge pull request #1684 from jneira/changelog (3 weeks ago)
